@@ -15,3 +15,6 @@ DATAMINING, CLASSIFICAÇÃO E REGRESSÃO
 ![regressão 4](https://github.com/Avoluzo/DATAMINING/assets/58647628/6525f355-ec57-4f34-b4f1-9caf917f2bcf)
 
 # CLASSIFICAÇÃO :
+
+
+![classificação resultado](https://github.com/Avoluzo/DATAMINING/assets/58647628/a0d2704c-622a-4c32-964d-67dc42c12d22)
